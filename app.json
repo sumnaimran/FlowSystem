@@ -1,0 +1,32 @@
+{
+  "id": "35a4aa34-7c53-4fa5-8c52-489e258c7b0d",
+  "name": "EVS - BusinessReport&Customizations",
+  "publisher": "Default publisher",
+  "version": "1.0.0.01",
+  "brief": "",
+  "description": "",
+  "privacyStatement"  : "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
+  "idRanges": [
+    {
+      "from": 50000 ,
+      "to": 99999
+    }
+  ],
+  "runtime": "9.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
